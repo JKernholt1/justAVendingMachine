@@ -33,17 +33,17 @@ public class UserInterface {
     String item7[] = {"7", "5", "1% fat Apple", "Apple"};
     fruit1.setItem1(item7);
     String item8[] = {"8", "6", "2% fat Orange", "Orange"};
-    fruit1.setItem1(item8);
+    fruit1.setItem2(item8);
     String item9[] = {"9", "4", "3% fat Kiwi", "Kiwi"};
-    fruit1.setItem1(item9);
+    fruit1.setItem3(item9);
 
     Snack snack1 = new Snack();
     String item10[] = {"10", "7", "30% sugar Japp", "Japp"};
     snack1.setItem1(item10);
     String item11[] = {"11", "6", "35% sugar Raider", "Raider"};
-    snack1.setItem1(item11);
+    snack1.setItem2(item11);
     String item12[] = {"12", "10", "50% sugar Donut", "Donut"};
-    snack1.setItem1(item12);
+    snack1.setItem3(item12);
 
 //----
 
